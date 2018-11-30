@@ -2,14 +2,14 @@
 
 				
 
-					Song management
+			
 
 
-	Technology :- 
+Technology :- 
 
-		Fronted : -  Reactjs ,applo GraphQL
+Fronted : -  Reactjs ,applo GraphQL
 
-		backed : - mlab(mongoDB) live database
+backed : - mlab(mongoDB) live database
 
 
 
