@@ -19,6 +19,7 @@ Install the dependencies and devDependencies and start the server.
 $ npm install
 $ npm run dev
 ```
+use this url for mlab database creation  [mlab doc][https://docs.mlab.com/]
 
 ### Todos
 
