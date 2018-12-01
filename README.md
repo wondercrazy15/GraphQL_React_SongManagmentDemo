@@ -4,7 +4,7 @@
 
 			
 
-# Technology :-
+### Technology
 
  - Fronted : - Reactjs ,applo GraphQL
  - backed : - mlab(mongoDB) live database
