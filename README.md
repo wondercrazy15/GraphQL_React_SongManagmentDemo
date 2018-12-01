@@ -4,29 +4,29 @@
 
 			
 
+# Technology :-
 
-Technology :- 
-
-Fronted : -  Reactjs ,applo GraphQL
-
-backed : - mlab(mongoDB) live database
+ - Fronted : - Reactjs ,applo GraphQL
+ - backed : - mlab(mongoDB) live database
 
 
+### Installation
 
 
-Project Description : -
+Install the dependencies and devDependencies and start the server.
 
+```sh
+$ npm install
+$ npm run dev
+```
 
-> User can add song detail 
+### Todos
 
-> User can also add lyrics on particular song 
-
-> User can like a lyrics
-
-> User can also delete song detail from database 
-
-> User can update for particular song
-
+ - User can add song detail.
+ - User can also add lyrics on particular song.
+ - User can like a lyrics.
+ - User can also delete song detail from database.
+ - User can update for particular song
 
 
 
